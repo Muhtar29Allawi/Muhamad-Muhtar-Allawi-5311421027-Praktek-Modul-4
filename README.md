@@ -22,8 +22,10 @@ Dengan demikian, pada akhir proses BFS, node 8, 6, dan 7 telah ditemukan oleh al
 
 Jadi, algoritma BFS menentukan node 8, 6, dan 7 dengan mengunjungi dan memeriksa node-node secara berurutan sesuai dengan jarak relatif mereka dari node awal (node 3).
 •	Hasil dari running code adalah sebagai berikut:
+
 ![Screenshot 2023-10-30 031039](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-4/assets/148027728/8dbe3b45-2fd7-41c3-9903-d295ff913c65) 
 •	Graph hasil dari blind search adalah sebagai berikut:
+
  ![Screenshot 2023-10-30 031954](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-4/assets/148027728/ccfd2d51-3379-4cb0-8ffa-5308c2d5aad0)
 
 
@@ -64,6 +66,7 @@ Output yang dapat lihat adalah urutan node yang sudah dikunjungi dengan jarak ma
 Karena program dijalankan dengan node awal adalah 5, hasilnya adalah urutan node yang dapat dicapai dari node 5 beserta jaraknya. Dalam contoh, dari node 5, program menemukan node-node 4, 3, 2, 1, dan 0 dengan jarak masing-masing node dari node 5.
 Dalam struktur pohon yang dibentuk, BFS mampu menemukan Node 5 pada tahap awal pencarian karena Node 5 adalah tetangga langsung dari Node 1 yang telah dikunjungi setelah Node 4, sesuai dengan prinsip pencarian secara lebar yang diterapkan oleh BFS.
 •	Hasil dari running code adalah sebagai berikut:
+
  ![Screenshot 2023-10-30 044447](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-4/assets/148027728/74b80ef7-a11f-4992-abf4-b2763154e3e4)
 
 
@@ -71,6 +74,7 @@ Dalam struktur pohon yang dibentuk, BFS mampu menemukan Node 5 pada tahap awal p
 
 
 3.	Pada gambar 4.6 Tree 2 saya telah membuat source code untuk menjalankan algoritma BFS untuk dapat menemukan node 9. Berikut hasil yang telah didapat:
+   
 ![Screenshot 2023-10-30 051030](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-4/assets/148027728/24804608-ecf5-4e78-99ac-1dd734faccdf)
  
 
@@ -96,6 +100,7 @@ H = 8
 I = 9
 
 Dengan Hasil yang didapat adalah sebagai berikut:
+
  ![Screenshot 2023-10-30 053657](https://github.com/Muhtar29Allawi/Muhamad-Muhtar-Allawi-5311421027-Praktek-Modul-4/assets/148027728/ba278547-6c97-4c06-953a-665775d3ae3e)
 
 
